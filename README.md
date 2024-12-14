@@ -10,8 +10,9 @@ Hello, I'm Amir. Data Scientist with expertise in Predictive modeling and algori
 - Cloud: Databricks, Amazon AWS
 ## {} Projects
 
-You can find my projects here.
- I will upload them gradually. 
+You can find my projects [here](https://github.com/AmirhosseinYaghoubi/Portfolio).\
+
+I will upload them gradually. 
   
 
 ## 📫 Connect with me:
