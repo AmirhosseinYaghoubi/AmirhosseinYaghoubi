@@ -9,7 +9,12 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Tools and Languages
-- Language: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white), SQL
+- Coding/ Software:
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white):
+      - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black), ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white),
+
+
+     SQL, ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white), 
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Microsoft Power BI
 
