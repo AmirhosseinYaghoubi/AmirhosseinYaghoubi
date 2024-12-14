@@ -8,7 +8,7 @@ Hello, I'm Amir. Data Scientist with expertise in Predictive modeling and algori
 - Coding/ Software: Python (Jupyter, PyTorch, Scikit-learn, NumPy, Pandas, PySpark  Matplotlib, Seaborn), SQL, LaTeX, Gurobi, Excel VBA, Tableau, Microsoft Power BI
 - Technical: Advanced Statistics, Neural Networks, Dashboarding, Natural Language Processing, Data Mining, AutoML, MLOps, Feature Store
 - Cloud: Databricks, Amazon AWS
-## 💻Projects
+## {} Projects
 
 You can find my projects here.
  I will upload them gradually. 
